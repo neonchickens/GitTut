@@ -1,3 +1,4 @@
 Association of Professional Programmers
-
+Last week we held an interest meeting
 Week2 we talked about GIT
+
